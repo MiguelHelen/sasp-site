@@ -18,9 +18,35 @@ Site desenvolvido para a atividade **PW3 - Laravel Breeze - CRUD - 1ª Parte**, 
 
 ## 🔗 Links do Projeto
 
-- **Protótipo no Figma:** https://www.figma.com/design/DMdGsg6Uxo2QfpiXqsxsQK/TCC--S.A.S.P.I?node-id=15-2&t=QWJdVpuopKEl1HpA-1
-- **Vídeo de Demonstração no YouTube:** [Cole aqui o link do vídeo após subir]
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/w2F-quZGmFU" target="_blank">
+        <img src="https://img.youtube.com/vi/w2F-quZGmFU/maxresdefault.jpg" alt="Vídeo de Demonstração no YouTube" style="width:100%; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      </a>
+      <br />
+      <br />
+      <a href="https://youtu.be/w2F-quZGmFU" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-Assistir_Demonstração-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir no YouTube">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.figma.com/design/DMdGsg6Uxo2QfpiXqsxsQK/TCC--S.A.S.P.I?node-id=15-2&t=QWJdVpuopKEl1HpA-1" target="_blank">
+        <img src="https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=1280&q=80" alt="Protótipo no Figma" style="width:100%; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      </a>
+      <br />
+      <br />
+      <a href="https://www.figma.com/design/DMdGsg6Uxo2QfpiXqsxsQK/TCC--S.A.S.P.I?node-id=15-2&t=QWJdVpuopKEl1HpA-1" target="_blank">
+        <img src="https://img.shields.io/badge/Figma-Visualizar_Protótipo-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Abrir Protótipo no Figma">
+      </a>
+    </td>
+  </tr>
+</table>
 
+- 🎥 **Vídeo no YouTube:** [https://youtu.be/w2F-quZGmFU](https://youtu.be/w2F-quZGmFU)
+- 🎨 **Protótipo no Figma:** [Acessar Projeto no Figma](https://www.figma.com/design/DMdGsg6Uxo2QfpiXqsxsQK/TCC--S.A.S.P.I?node-id=15-2&t=QWJdVpuopKEl1HpA-1)
+
+---
 
 ## Sobre o S.A.S.P.I.
 
