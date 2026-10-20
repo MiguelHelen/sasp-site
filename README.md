@@ -6,9 +6,20 @@ Site desenvolvido para a atividade **PW3 - Laravel Breeze - CRUD - 1ª Parte**, 
 
 > **Importante:** este repositório contém **apenas o site de apresentação** em Laravel. O sistema S.A.S.P.I. definitivo do TCC **não** é desenvolvido em Laravel e segue a arquitetura descrita abaixo.
 
-- **Curso:** [Desenvolvimento de Sistemas]
-- **Instituição:** [ETEC DA ZONA LESTE]
+- **Curso:** Desenvolvimento de Sistemas
+- **Instituição:** ETEC Zona Leste
 - **Disciplina:** Programação Web 3 (PW3)
+
+## 👥 Equipe e Atribuições
+
+- **Mariana de Oliveira:** Frontend e Telas de Entrada (desenvolvimento da Landing Page `welcome.blade.php` com Blade e Tailwind CSS, e personalização das views de autenticação do Breeze).
+- **Miguel Heleno:** Backend e Banco de Dados (criação das migrations relacionais, configuração dos models Eloquent N:N e consultas no `routes/web.php`).
+- **Wallex André:** Frontend Dinâmico e Seeders (estruturação do `dashboard.blade.php` com cards de métricas, galeria de telas com filtros dinâmicos e desenvolvimento dos seeders do banco de dados).
+
+## 🔗 Links do Projeto
+
+- **Protótipo no Figma:** https://www.figma.com/design/DMdGsg6Uxo2QfpiXqsxsQK/TCC--S.A.S.P.I?node-id=15-2&t=QWJdVpuopKEl1HpA-1
+- **Vídeo de Demonstração no YouTube:** [Cole aqui o link do vídeo após subir]
 
 
 ## Sobre o S.A.S.P.I.
